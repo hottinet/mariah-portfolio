@@ -1,10 +1,13 @@
 {
-  "name": "react_template",
+  "name": "mariah_portfolio",
   "version": "2.0.0",
-  "description": "A website by Troy Chryssos",
+  "engines": {
+    "node": "12.11.1"
+  },
+  "description": "A website by Casey Bradford",
   "main": "app.js",
   "repository": "",
-  "author": "<troychryssos@gmail.com>",
+  "author": "<caseybradford@gmail.com>",
   "license": "MIT",
   "scripts": {
     "compile": "npm webpack",
